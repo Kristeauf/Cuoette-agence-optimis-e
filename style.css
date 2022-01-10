@@ -52,9 +52,18 @@ a:hover {
 .bloc-md {
     padding: 50px;
 }
-q.text-center{
+q.sitation{
     font-size:large;
     font-weight: bolder;
+  
+}
+.row.voffset-lg.voffset{
+    width: 90%;
+margin-left: auto;
+margin-right: auto;
+}
+p.realisation{
+    font-size: large;
 }
 
 .bloc-sm {
@@ -95,11 +104,16 @@ q.text-center{
     right: 0;
 }
 
+
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
-    background-size: 280px 280px;
+   background-size: 280px 280px;
+   
 }
-
+button#envoyer{
+    background-color: #F3976C;
+}
 .b-parallax {
     background-attachment: fixed;
 }
@@ -280,6 +294,9 @@ q.text-center{
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+}
+p.visible{
+    font-size: large;
 }
 
 .row.row-no-gutters > [class^="col-"],
@@ -800,6 +817,10 @@ h4 {
 .ltc-white {
     color: #FFFFFF!important;
 }
+.img-responsive{
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .ltc-white:hover {
     color: #cccccc!important;
@@ -817,6 +838,7 @@ h4 {
     color: #364577!important;
     border-color: #364577!important;
 }
+
 
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
@@ -854,6 +876,10 @@ h4 {
     }
     .nav-center.navbar .nav {
         max-width: 100%
+    }
+    .img-responsive{
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
@@ -1041,7 +1067,10 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+
     }
+   
+    
 }
 
 @media (max-width: 767px) {
