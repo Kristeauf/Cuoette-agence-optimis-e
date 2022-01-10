@@ -55,6 +55,7 @@ a:hover {
 q.sitation{
     font-size:large;
     font-weight: bolder;
+
   
 }
 .row.voffset-lg.voffset{
@@ -727,8 +728,10 @@ p {
 }
 .contact-footer{
     text-align: center;
+   font-size: large;
     margin-top: 10px;
-    margin-bottom: 20px;  
+    margin-bottom: 30px;  
+    color: white;
 }
 h2 {
     font-size: 22px;
