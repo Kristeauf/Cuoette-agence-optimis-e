@@ -120,7 +120,7 @@ p.realisation{
 
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
    background-size: 280px 280px;
    
 }
