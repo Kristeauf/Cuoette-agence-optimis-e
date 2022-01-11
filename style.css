@@ -52,12 +52,24 @@ a:hover {
 .bloc-md {
     padding: 50px;
 }
-q.sitation{
+.sitation {
     font-size:large;
-    font-weight: bolder;
+    
+    display: inline-block;
+  
+   margin-left: auto;
+   margin-right: auto;
+}
+ .auteur-sitation{
+     display: inline-block;
+    width: 100%;
+   text-align: center;
+ }
+ 
+
 
   
-}
+
 .row.voffset-lg.voffset{
     width: 90%;
 margin-left: auto;
