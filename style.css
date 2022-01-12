@@ -741,11 +741,11 @@ p {
 }
 .contact-footer{
     text-align: center;
-   font-size:small;
-   font-weight: bolder;
+   font-size:medium;
+  
     margin-top: 10px;
     margin-bottom: 30px;  
-    color: white;
+    color: whitesmoke
 }
 h2 {
     font-size: 22px;
