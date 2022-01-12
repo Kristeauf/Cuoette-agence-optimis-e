@@ -126,7 +126,7 @@ p.realisation{
    
 }
 button#envoyer{
-    background-color: rgb(206, 128, 110)
+    background-color: rgb(206, 128, 110);
 }
 .b-parallax {
     background-attachment: fixed;
