@@ -126,7 +126,7 @@ p.realisation{
    
 }
 button#envoyer{
-    background-color: rgb(206, 128, 110);
+    background-color:rgb(197, 129, 116);
 }
 .b-parallax {
     background-attachment: fixed;
@@ -814,7 +814,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color:rgb(206, 128, 110)
+    background-color:rgb(197, 129, 116);
 }
 
 .tc-white {
@@ -827,7 +827,7 @@ h4 {
 
 .btn-atomic-tangerine {
    
-      background-color: rgb(206, 128, 110);
+      background-color: rgb(197, 129, 116);
 }
 
 
@@ -849,11 +849,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: rgb(197, 129, 116)!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color:rgb(230, 149, 132)!important;
 }
 
 .icon-dark-slate-blue {
